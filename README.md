@@ -10,3 +10,4 @@ Dataset:
 
 
 Graphical Abstract:
+![Image Diagonsis Hasan Vai (2)](https://user-images.githubusercontent.com/94735396/214030755-4e612a0b-a22e-44e6-a421-a4b4e28fa807.png)
