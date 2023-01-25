@@ -13,8 +13,7 @@ Graphical Abstract:
 ![Image Diagonsis Hasan Vai (2)](https://user-images.githubusercontent.com/94735396/214030755-4e612a0b-a22e-44e6-a421-a4b4e28fa807.png)
 
 Citation:
-@article{MONTALBO2021102583, title = {Diagnosing Covid-19 Chest X-Rays with a Lightweight Truncated DenseNet with Partial Layer Freezing and Feature Fusion}, journal = {Biomedical Signal Processing and Control}, pages = {102583}, year = {2021}, issn = {1746-8094}, doi = {https://doi.org/10.1016/j.bspc.2021.102583}, url = {https://www.sciencedirect.com/science/article/pii/S1746809421001804}, author = {Francis Jesmar P. Montalbo}, keywords = {chest x-rays, computer-aided diagnosis, covid-19, deep learning, densely connected neural networks}
-
+ title = {Diagnosing Covid-19 Chest X-Rays with a Lightweight Truncated DenseNet with Partial Layer Freezing and Feature Fusion}, journal = {Biomedical Signal Processing and Control}, pages = {102583}, year = {2021}, issn = {1746-8094}, doi = {https://doi.org/10.1016/j.bspc.2021.102583}, url = {https://www.sciencedirect.com/science/article/pii/S1746809421001804}.
 How to use:
 Dependencies included in the requirements.txt:
 
